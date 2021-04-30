@@ -1,1 +1,7 @@
 # My Favorite Quantum Experiment: Entanglement
+
+This project was quite fun to research. I love building logic circuits and their puzzle like elements. Creating the engenglement circuit was escpecially delightful because I was able to create a real circuit that ran with actual quantum qubits. It is probably the first time I have directly done something like quantum physics physically.
+
+The naming conventions of qiskit would help to make the code more intuitive. Things to expand upon would be to explain more indepth the mathematics behind the circuit or to introduce the operations behind the equivalent circuit. Maybe also give a more in depth tutorial in how to access IBM Quantum computing to let people get an understanding on their own.
+
+Researching how to set it up is realtively easy. I only needed https://qiskit.org/textbook/preface.html to learn about the components and circuit and what the qubits are, and https://quantum-computing.ibm.com/ to execute on it. There is also a lot of info on circuits on the IBM site as well. The ability to make the circuit and the code is generated for you is a feature I especially like. This may seem like such a simple experiment, but it truly is something that questions the absolution of reality.
